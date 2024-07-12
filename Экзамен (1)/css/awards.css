@@ -1,0 +1,225 @@
+.awards{
+    width: 1160px;
+    height: 1479px;
+    margin-top: 50px;
+    padding-left: 140px;
+  }
+  .awards img{
+    width: 386px;
+    height: 386px;
+  
+  }
+  .title_awards{
+    width: 1140px;
+    height: 276px;
+    margin-left: 50px;
+  }
+  .title_awards h2{
+    font-family: "Coda", system-ui;
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 83.2px;
+    padding-top: 90px;
+    text-align: left;
+    color: #574B4B;
+  }
+  .main_4{
+    width: 1160px;
+    height: 1203px;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid #574B4B;
+  }
+  .award_1{
+    display: flex;
+    width: 1160px;
+    height: 401px;
+  
+  }
+  .award_name1{
+    width: 386px;
+    height: 336px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    position: absolute;
+  }
+  .container1{
+    width: 387px;
+    height: 400px;
+    border-top: 1px solid #574B4B;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid #574B4B;
+  }
+  .award_name1 h2{
+    width: 108px;
+    height: 84px;
+    font-family: "Coda", system-ui;
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 41.6px;
+    text-align: left;
+    margin-top: 62px;
+    margin-left: 82px;
+  }
+  .award_name1 h5{
+    margin-top: 10px;
+    margin-left: 82px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    position: absolute;
+  }
+  .container2{
+    width: 387px;
+    height: 400px;
+    border-bottom: 1px solid #574B4B;
+  }
+  .sub5{
+    width: 386px;
+    height: 336px;
+    border-top: 1px solid #574B4B;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  }
+  .sub5 h3{
+    width: 290px;
+    height: 94px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.4px;
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 40px;
+  }
+  .award_1 img{
+    width: 386px;
+    height: 386px;
+  }
+  
+  .award_2{
+    display: flex;
+    width: 1160px;
+    height: 401px;
+  
+  }
+  .award_name2{
+    width: 386px;
+    height: 336px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    position: absolute;
+  }
+  .container3{
+    width: 387px;
+    height: 400px;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid #574B4B;
+  }
+  .award_name2 h2{
+    width: 183px;
+    height: 42px;
+    font-family: "Coda", system-ui;
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 41.6px;
+    text-align: left;
+    margin-top: 62px;
+    margin-left: 70px;
+  }
+  .award_name2 h5{
+    margin-top: 50px;
+    margin-left: 70px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    position: absolute;
+  }
+  .container4{
+    width: 387px;
+    height: 400px;
+    border-bottom: 1px solid #574B4B;
+  }
+  .sub6{
+    width: 386px;
+    height: 310px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  }
+  .sub6 h3{
+    width: 279px;
+    height: 117px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.4px;
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 40px;
+  }
+  .award_2 img{
+    width: 386px;
+    height: 386px;
+  }
+  
+  .award_3{
+    display: flex;
+    width: 1160px;
+    height: 401px;
+  
+  }
+  .award_name3{
+    width: 386px;
+    height: 336px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    position: absolute;
+  }
+  .container5{
+    width: 387px;
+    height: 400px;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+  }
+  .award_name3 h2{
+    width: 183px;
+    height: 42px;
+    font-family: "Coda", system-ui;
+    font-size: 31px;
+    font-weight: 400;
+    line-height: 41.6px;
+    text-align: left;
+    margin-top: 62px;
+    margin-left: 70px;
+  }
+  .award_name3 h5{
+    margin-top: 50px;
+    margin-left: 70px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    position: absolute;
+  }
+  .container6{
+    width: 387px;
+    height: 400px;
+  }
+  .sub7{
+    width: 386px;
+    height: 310px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  }
+  .sub7 h3{
+    width: 299px;
+    height: 117px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.4px;
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 40px;
+  }
+  .award_3 img{
+    width: 386px;
+    height: 386px;
+  }

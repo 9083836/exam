@@ -1,0 +1,99 @@
+.nav__list {
+  display: flex;
+}
+
+.header {
+  margin-left: 25vw;
+  width: 1440px;
+  height: 8366px;
+  justify-content: center;
+}
+
+.nav__list .button {
+  background-color: #F55D48;
+}
+
+.nav__list {
+  width: 564px;
+  height: 80px;
+  text-decoration: none;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Work Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 20px;
+  color: #222222;
+}
+
+.header__top {
+  border-bottom: 1px solid #574B4B;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header {
+  width: 1440px;
+  height: 8366px;
+  justify-content: center;
+  border: 10px solid #574B4B;
+}
+
+.nav__list button {
+  width: 141px;
+  height: 80px;
+  background-color: #F55D48;
+  color: #fff;
+}
+
+.logo {
+  width: 141px;
+  height: 80px;
+  border: 10px;
+  border-right: 1px solid #574B4B;
+}
+.logo img{
+  width: 64px;
+  height: 64px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.name{
+  width: 1140px;
+  height: 413px;
+  border: 1px solid #574B4B;
+  align-items: center;
+  margin-left: 140px;
+  margin-right: 140px;
+}
+h1{
+  font-family: "Coda", system-ui;
+  font-size: 139px;
+  font-weight: 400;
+  line-height: 182px;
+  text-align: left;
+  margin-top: 15px;
+  margin-left: 40px;
+}
+.sub1{
+  width: 1140px;
+  height: 149px;
+  border-left: 1px solid #574B4B;
+  border-right: 1px solid #574B4B;
+  margin: auto;
+}
+h3{
+  width: 466px;
+  height: 71px;
+  padding-top: 41px;
+  margin-left: 80px;
+  font-family: "Work Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23.4px;
+  text-align: left;
+}
+img{
+  width: 1420px;
+}

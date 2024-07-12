@@ -1,0 +1,13 @@
+.nav__list {
+  display: flex;
+}
+
+.header {
+  width: 1440px;
+  height: 8366px;
+  justify-content: center;
+}
+
+.nav__list .button {
+  background-color: #F55D48;
+}

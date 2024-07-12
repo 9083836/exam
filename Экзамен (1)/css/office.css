@@ -1,0 +1,57 @@
+.office{
+    width: 1160px;
+    height: 1163px;
+    padding-left: 140px;
+  }
+  .title_office{
+    width: 1160px;
+    height: 276px;
+    margin-left: 50px;
+  }
+  .title_office h2{
+    font-family: "Coda", system-ui;
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 83.2px;
+    padding-top: 90px;
+    text-align: left;
+    color: #574B4B;
+  }
+  .save_img img{
+    width: 931px;
+    height: 662px;
+    margin-left: 114px;
+  }
+  .main_5{
+    width: 1160px;
+    height: 665px;
+    border-bottom: 1px solid #574B4B;
+    border-top: 1px solid #574B4B;
+  }
+  .mini-circle3 button{
+    width: 64px;
+    height: 64px;
+    border-radius: 80px;
+    border:1px solid #574B4B;
+    background-color: #fff;
+    margin-top: 595px;
+    position: absolute;
+  }
+  .mini-circle3 img{
+    width: 40px;
+    height: 40px;
+  }
+  .mini-circle4 button{
+    width: 64px;
+    height: 64px;
+    border-radius: 80px;
+    border:1px solid #574B4B;
+    background-color: #fff;
+    margin-top: 595px;
+    margin-left: 1096px;
+    position: absolute;
+  }
+  .mini-circle4 img{
+    width: 40px;
+    height: 40px;
+  }
